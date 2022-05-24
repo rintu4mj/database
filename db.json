@@ -12,11 +12,31 @@
     "name": "typicode"
   },
   "WH-1": [
-    { sectionId: "001" }, { sectionId: "002" },
-    { sectionId: "003" }, { sectionId: "004" }, { sectionId: "005" },
-    { sectionId: "006" }, { sectionId: "007" }, { sectionId: "008" },
-    { sectionId: "009" }, { sectionId: "0010" }, { sectionId: "011" },
-    { sectionId: "012" }, { sectionId: "013" }, { sectionId: "014" },
-    { sectionId: "015" }
-  ]
+    { "sectionId": "001" },{ "sectionId": "002" },
+    { "sectionId": "003" }, { "sectionId": "004" }, { "sectionId": "005" },
+    { "sectionId": "006" }, { "sectionId": "007" }, { "sectionId": "008" },
+    { "sectionId": "009" }, { "sectionId": "0010" }, { "sectionId": "011" },
+    { "sectionId": "012" }, { "sectionId": "013" }, { "sectionId": "014" },
+    { "sectionId": "015" }
+  ],
+  "WH-1": [
+    { "sectionId": "001" },{ "sectionId": "002" },
+    { "sectionId": "003" }, { "sectionId": "004" }, { "sectionId": "005" },
+    { "sectionId": "006" }, { "sectionId": "007" }, { "sectionId": "008" },
+    { "sectionId": "009" }, { "sectionId": "0010" }, { "sectionId": "011" },
+    { "sectionId": "012" }, { "sectionId": "013" }, { "sectionId": "014" },
+    { "sectionId": "015" },{ "sectionId": "016" }, { "sectionId": "017" }, 
+	{ "sectionId": "018" },{ "sectionId": "019" },{ "sectionId": "020" }
+  ],
+  "WH-1": [
+    { "sectionId": "001" },{ "sectionId": "002" },
+    { "sectionId": "003" }, { "sectionId": "004" }, { "sectionId": "005" },
+    { "sectionId": "006" }, { "sectionId": "007" }, { "sectionId": "008" },
+    { "sectionId": "009" }, { "sectionId": "0010" }, { "sectionId": "011" },
+    { "sectionId": "012" }, { "sectionId": "013" }, { "sectionId": "014" },
+    { "sectionId": "015" },{ "sectionId": "016" }, { "sectionId": "017" }, 
+	{ "sectionId": "018" },{ "sectionId": "019" },{ "sectionId": "020" },
+	{ "sectionId": "021" },{ "sectionId": "022" }, { "sectionId": "023" }, 
+	{ "sectionId": "024" },{ "sectionId": "025" }
+  ],
 }
